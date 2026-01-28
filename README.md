@@ -1,5 +1,5 @@
 # BorgBorg
-Try it out [here](https://tihs-code.neocities.org/BorgBorg)!
+Download the .html file then run on your preferred browser or try it out on my website [here](https://tihs-code.neocities.org/BorgBorg)!
 ## What is it?
 **Robots.** Borg on Borg violence. Set up your Borg's Stats and it's Program exactly as needed.  
 **Automated.** All Borgs are automated, focus on learning the level and enemies to set your Borg up for success.  
